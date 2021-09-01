@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-OpenTA - for admins 
+OpenTA - for admins
 ==================================
 
 Mobile friendly E-learning platform.
 
 
-.. image:: front/mobile_exercise.png
+.. image:: /admin/front/mobile_exercise.png
   :height: 300px
   :align: right
 
@@ -21,4 +21,3 @@ Mobile friendly E-learning platform.
    managing_participants/index
    author/index
    documentation/index
-
